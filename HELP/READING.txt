@@ -1,0 +1,27 @@
+The program asks you whether you've taken a reading yet. Answering
+"No" will not have any negative consequences. Instead, the program
+informs you that you'll need to use your equipment to take a glucose
+reading before you can progress, and then returns you to the "Have
+you taken a reading?" screen.
+
+Taking a glucose reading is a process that varies depending on what
+equipment you typically use to monitor your blood sugar. Some common
+methods are test strips or arm pods. Ask your doctor if you are not
+sure how to take a glucose reading.
+
+If you haven't taken your blood sugar reading prior to logging in,
+you may either do so while the program waits, or log out and choose
+to record the data at another time. The program won't time out.
+
+Once you have a reading ready, click "Yes" (green). You will be
+provided with a text entry box for a numerical value 0-999.
+
+If you are typing and nothing happens, please click the text entry
+box in the middle of the screen. It will change colors to a lighter
+hue, indicating it is "active".
+
+If you enter an invalid input, the program will prompt you to enter
+a value between 0-999. Your invalid input will not be saved.
+
+If you see red text below the entry box, please make sure you're
+typing a valid number.

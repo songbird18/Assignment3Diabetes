@@ -1,0 +1,8 @@
+If your blood sugar is below the lower limit defined by your
+doctor, the program will warn you and ask you to eat a sugary
+food to help balance out your sugar.
+
+You will not be required to enter your glucose a second time.
+Simply click "Next" after replenishing your sugar, and you
+will move on to the next stage of reporting. No further action
+inside the software is necessary.

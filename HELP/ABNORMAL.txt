@@ -1,0 +1,8 @@
+If your readings are too low or too high, the program will
+ask you for any possible reasons.
+
+In 128 characters or less, describe any health issues or
+other factors that may have caused your sugar to drop below
+acceptable levels or rise above acceptable levels.
+
+This information will be saved for your doctor's use.

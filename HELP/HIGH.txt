@@ -1,0 +1,10 @@
+If your blood sugar is above the threshold set by your doctor,
+you will be prompted to contact your doctor immediately. Your
+doctor's name and phone number will be displayed on the screen.
+
+This prompt does not disable the program. You may proceed as
+normal inside the program, whether or not you contact your doctor.
+
+You will be asked about the presence of ketones in your urine.
+If you are not sure how to identify ketones, ask your doctor
+before proceeding with an answer.

@@ -1,0 +1,6 @@
+On the Login screen, click your name to begin the glucose monitoring process.
+Once you've selected a name, the program will walk you through entering
+all of the required information about your current blood sugar levels.
+
+You may log out at any time through the "Logout" button in the bottom right
+corner of the screen.
